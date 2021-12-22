@@ -5,3 +5,4 @@ spring:
    name: cifigclient
  some:
    value: valor del servidor
+
