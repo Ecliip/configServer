@@ -2,7 +2,7 @@ server:
   port: 8089
 spring:
   application:
-   name: cifigclient
+    name: cifigclient
  some:
    value: valor del servidor
 
